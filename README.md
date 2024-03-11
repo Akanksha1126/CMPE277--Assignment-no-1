@@ -1,2 +1,1 @@
-# CMPE277--Assignment-no-1
-Activity Life Cycle
+# CMPE-277-Smartphone-App-Dev
